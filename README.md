@@ -1,4 +1,4 @@
-# Project 1: Temperature Converter
+# Project 2: Temperature Converter
 
 Teacher: David Steedman
 
